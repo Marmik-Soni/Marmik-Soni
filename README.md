@@ -27,13 +27,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/marmiksoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/marmiksoni" height="30" width="40" /></a>
-<a href="https://twitter.com/marmiksoni777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marmiksoni777" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marmiksoni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marmiksoni/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/marmik.soni99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/marmik.soni99" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/marmik_soni_02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/marmik_soni_02/" height="30" width="40" /></a>
+<a href="https://dev.to/marmiksoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/marmiksoni" height="30" width="40" /></a>
+<a href="https://twitter.com/marmiksoni77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marmiksoni777" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marmiksoni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marmiksoni/" height="30" width="40" /></a>
+<a href="https://instagram.com/marmik_soni_02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/marmik_soni_02/" height="30" width="40" /></a>
 <a href="https://medium.com/@marmiksoni777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marmiksoni777" height="30" width="40" /></a>
-<a href="https://discord.gg/NOISY_BOYY#2646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NOISY_BOYY#2646" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
