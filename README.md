@@ -39,7 +39,7 @@
 
 
 <h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/marmiksoni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/marmiksoni" /></a></p><br><br>
+<p><a href="buymeacoffee.com/marmiksoni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/marmiksoni" /></a></p><br><br>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marmik-soni&show_icons=true&locale=en&layout=compact" alt="marmik-soni" /></p>
