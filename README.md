@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **DevOps and Cloud**
 
-- 📝 I regularly write articles on [https://medium.com/@marmiksoni777](https://medium.com/@marmiksoni777)
+- 📝 I regularly write articles on [medium](https://medium.com/@marmiksoni777)
 
 - 💬 Ask me about **.NET, C# Development, and Back-end Development.**
 
-- 📫 How to reach me **marmiksoni777@gmail.com**
+- 📫 Reach out to me on [Email](marmiksoni777@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xf0FrxdRssN5c5RLA5c0TfcmRprJceSU/view?usp=sharing](https://drive.google.com/file/d/1xf0FrxdRssN5c5RLA5c0TfcmRprJceSU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xf0FrxdRssN5c5RLA5c0TfcmRprJceSU/view?usp=sharing)
 
 - ⚡ Fun fact **I'm the invisible engineer behind the digital curtain.**
 
