@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **.NET, C# Development, and Back-end Development.**
 
-- 📫 Reach out to me on [Email](marmiksoni777@gmail.com)
+- 📫 Reach out to me on [Email](mailto:marmiksoni777@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xf0FrxdRssN5c5RLA5c0TfcmRprJceSU/view?usp=sharing)
 
