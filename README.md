@@ -13,7 +13,7 @@
 
 - 📫 Reach out to me on [Email](mailto:marmiksoni777@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xf0FrxdRssN5c5RLA5c0TfcmRprJceSU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gVoEUMSzxkRuJAD9v9a2-acqpmZ_Leg1/view?usp=sharing)
 
 - ⚡ Fun fact **I'm the invisible engineer behind the digital curtain.**
 
