@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [medium](https://medium.com/@marmiksoni777)
 
-- 💬 Ask me about **.NET, C# Development, and Back-end Development.**
+- 💬 Ask me about **.NET, C# Development  and Back-end Development.**
 
 - 📫 Reach out to me on [Email](mailto:marmiksoni777@gmail.com)
 
