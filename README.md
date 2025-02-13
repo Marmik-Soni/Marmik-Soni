@@ -14,7 +14,7 @@
 - 💬 Ask me about **Back-end Development With .NET, C# Development
 and Front-end Development with ReactJS, JavaScript**
 
-- 📫 Reach out to me on [Email](mailto:marmiksoni777@gmail.com) or LinkedIn [LinkedIn](https://www.linkedin.com/in/marmiksoni/)
+- 📫 Reach out to me on [Email](mailto:marmiksoni777@gmail.com) or [LinkedIn](https://www.linkedin.com/in/marmiksoni/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gVoEUMSzxkRuJAD9v9a2-acqpmZ_Leg1/view?usp=sharing)
 
