@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Creating projects while sharing the learning journey publicly.**
 
-- 🌱 I’m currently learning **DevOps and Cloud**
+- 🌱 I’m currently learning **JavaScript and ReactJS**
 
 - 📝 I regularly write articles on [medium](https://medium.com/@marmiksoni777)
 
-- 💬 Ask me about **.NET, C# Development  and Back-end Development.**
+- 💬 Ask me about **Back-end Development With .NET, C# Development and Front-end Development with ReactJS and JavaScript**
 
 - 📫 Reach out to me on [Email](mailto:marmiksoni777@gmail.com)
 
