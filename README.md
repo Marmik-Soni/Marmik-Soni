@@ -22,7 +22,7 @@ and Front-end Development with ReactJS, JavaScript**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-1. [The Morris Worm: When the Internet Caught Cold](https://medium.com/@marmiksoni777/the-morris-worm-when-the-internet-caught-cold-ab2a644e075e)
+1. [Surveillance in the Digital Age: When Privacy Becomes a Commodity](https://medium.com/@marmiksoni777/surveillance-in-the-digital-age-when-privacy-becomes-a-commodity-f97569ef8546)
 2. [Heisenbugs: The Elusive Bug That Makes Developers Cry](https://medium.com/@marmiksoni777/heisenbugs-the-elusive-bug-that-makes-developers-cry-caee90bff50a)
 3. [A Million Bugs and a Billion Dollar Bang: The Story of the Ariane 5 Explosion](https://medium.com/@marmiksoni777/a-million-bugs-and-a-billion-dollar-bang-the-story-of-the-ariane-5-explosion-6c753469273e)
 
