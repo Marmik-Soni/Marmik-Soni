@@ -16,7 +16,7 @@ and Front-end Development with ReactJS, JavaScript**
 
 - 📫 Reach out to me on [Email](mailto:marmiksoni777@gmail.com) or [LinkedIn](https://www.linkedin.com/in/marmiksoni/)
 
-- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1gVoEUMSzxkRuJAD9v9a2-acqpmZ_Leg1/view?usp=sharing)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1hzsL0Roxw_xIxpyN9qhEzGPN8BJNYc35/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm the invisible engineer behind the digital curtain.**
 
