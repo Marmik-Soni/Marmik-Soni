@@ -1,4 +1,4 @@
-### Hey there! 👋
+e### Hey there! 👋
 
 I'm **Marmik Soni**, a fullstack developer based in India.
 
@@ -29,7 +29,10 @@ I regularly write about tech, bugs, and the chaos of development on [Medium](htt
 
 #### Let's connect:
 
-[LinkedIn](https://linkedin.com/in/marmiksoni/) • [Instagram](https://instagram.com/marmik_soni_02/) • [Medium](https://medium.com/@marmiksoni777) • [Signal](https://signal.me/#eu/BFBp-NQ6IgO_ryDsLXFxQAxxJ0lSXZezWvrsBuzqrHtOteSxwMFFJYsohJThI-dO)
+[LinkedIn](https://linkedin.com/in/marmiksoni/){:target="_blank"} •
+[Instagram](https://instagram.com/marmiksoni777/){:target="_blank"} •
+[Medium](https://medium.com/@marmiksoni777){:target="_blank"} •
+[Signal](https://signal.me/#eu/BFBp-NQ6IgO_ryDsLXFxQAxxJ0lSXZezWvrsBuzqrHtOteSxwMFFJYsohJThI-dO){:target="_blank"}
 
 
 ---
