@@ -4,7 +4,7 @@
 
 I'm a fullstack developer based in India. 
 
-I build seamless web experiences with **React**, **Next.js**, **Node** (Express), and **MongoDB** / **Postgres**.
+I build seamless web experiences with **React**, **Next.js**, **Node** (Express & Hono), and **MongoDB** / **Postgres**.
 
 Right now, I'm working on a self-healing automation engine to make event registration and waitlists effortless for the Reading Room community.
 
