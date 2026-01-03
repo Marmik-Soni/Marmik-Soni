@@ -1,6 +1,6 @@
-### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey there! <img src="https://tenor.com/eZ6iiKqGsXm.gif" width="30px">
 
-# **Marmik Soni**
+# **I'm Marmik Soni**
 
 I'm a fullstack developer based in India. 
 
@@ -15,7 +15,7 @@ I regularly write about tech, bugs, and the chaos of development on [Medium](htt
 <!-- BLOG-POST-LIST:START -->
 → [Surveillance in the Digital Age: When Privacy Becomes a Commodity](https://medium.com/@marmiksoni777/surveillance-in-the-digital-age-when-privacy-becomes-a-commodity-f97569ef8546)  
 → [Heisenbugs: The Elusive Bug That Makes Developers Cry](https://medium.com/@marmiksoni777/heisenbugs-the-elusive-bug-that-makes-developers-cry-caee90bff50a)  
-→ [A Million Bugs and a Billion Dollar Bang: The Story of the Ariane 5 Explosion](https://medium.com/@marmiksoni777/a-million-bugs-and-a-billion-dollar-bang-the-story-of-the-ariane-5-explosion-6c753b8e0e0e)  
+→ [A Million Bugs and a Billion Dollar Bang: The Story of the Ariane 5 Explosion](https://medium.com/@marmiksoni777/a-million-bugs-and-a-billion-dollar-bang-the-story-of-the-ariane-5-explosion-6[...]
 <!-- BLOG-POST-LIST:END -->
 
 #### When I'm not coding:
@@ -34,7 +34,6 @@ I regularly write about tech, bugs, and the chaos of development on [Medium](htt
 <a href="https://linkedin.com/in/marmiksoni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/marmiksoni777/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://medium.com/@marmiksoni777" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-<a href="https://signal.me/#eu/BFBp-NQ6IgO_ryDsLXFxQAxxJ0lSXZezWvrsBuzqrHtOteSxwMFFJYsohJThI-dO" target="_blank"><img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal"></a>
-
+<a href="https://signal.me/#eu/BFBp-NQ6IgO_ryDsLXFxQAxxJ0lSXZezWvrsBuzqrHtOteSxwMFFJYsohJThI-dO" target="_blank"><img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signa[...]
 
 ---
