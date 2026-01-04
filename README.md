@@ -34,6 +34,5 @@ I regularly write about tech, bugs, and the chaos of development on [Medium](htt
 <a href="https://linkedin.com/in/marmiksoni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/marmiksoni777/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://medium.com/@marmiksoni777" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-<a href="https://signal.me/#eu/BFBp-NQ6IgO_ryDsLXFxQAxxJ0lSXZezWvrsBuzqrHtOteSxwMFFJYsohJThI-dO" target="_blank"><img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signa[...]
-
+<a href="https://signal.me/#eu/BFBp-NQ6IgO_ryDsLXFxQAxxJ0lSXZezWvrsBuzqrHtOteSxwMFFJYsohJThI-dO" target="_blank"><img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signa[...]</a>
 ---
