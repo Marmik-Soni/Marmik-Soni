@@ -1,6 +1,5 @@
 ### Hey there! 👋
 
-<img src="https://media.tenor.com/eZ6iiKqGsXmAAAAC/hi-wave.gif" width="30px" />
 
 # **I'm Marmik Soni**
 
