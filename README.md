@@ -1,53 +1,30 @@
-### Hey there! 👋
+# Marmik Soni 
 
+**Fullstack Engineer • India**
 
-# **I'm Marmik Soni**
-
-I'm a fullstack developer based in India.
-
-I build seamless web experiences with **React**, **Next.js**, **Node** (Express & Hono), and **MongoDB** / **Postgres**.
-
-Focused on perfecting the craft, because apparently, I have a very low tolerance for "good enough."
-
-Right now, I'm working on a self healing automation engine to make event registration and waitlists effortless for the Reading Room community.
-
-I regularly write about tech, bugs, and the chaos of development on [Medium](https://medium.com/@marmiksoni777). Here are my recent posts:
-
-→ [Surveillance in the Digital Age: When Privacy Becomes a Commodity](https://medium.com/@marmiksoni777/surveillance-in-the-digital-age-when-privacy-becomes-a-commodity-f97569ef8546)  
-→ [Heisenbugs: The Elusive Bug That Makes Developers Cry](https://medium.com/@marmiksoni777/heisenbugs-the-elusive-bug-that-makes-developers-cry-caee90bff50a)  
-→ [A Million Bugs and a Billion Dollar Bang: The Story of the Ariane 5 Explosion](https://medium.com/@marmiksoni777/a-million-bugs-and-a-billion-dollar-bang-the-story-of-the-ariane-5-explosion-6f7b5b5b0e2f)
+I build seamless, high-performance web experiences using **React**, **Next.js**, **Node.js**, and **PostgreSQL** / **MongoDB**. I am focused on perfecting the craft, because apparently, I have a very low tolerance for "good enough."
 
 ---
 
-#### When I'm not coding
+### ✦ Currently Building
+Architecting a self-healing automation engine (complete with a waterfall invitation system) for the **Reading Room** community to make event registration and waitlists effortless.
 
-- Reading books whenever I get the chance
-- Watching anime (huge Nolan fan too)
-- Love pets
-- Always high on chai and errors ☕
+### ❖ Recent Writing
+I regularly document my thoughts on tech, system architecture, and the chaos of development on [Medium](https://medium.com/@marmiksoni777). 
+
+↳ [Surveillance in the Digital Age: When Privacy Becomes a Commodity](https://medium.com/@marmiksoni777/surveillance-in-the-digital-age-when-privacy-becomes-a-commodity-f97569ef8546)  
+↳ [Heisenbugs: The Elusive Bug That Makes Developers Cry](https://medium.com/@marmiksoni777/heisenbugs-the-elusive-bug-that-makes-developers-cry-caee90bff50a)  
+↳ [A Million Bugs and a Billion Dollar Bang: The Story of the Ariane 5 Explosion](https://medium.com/@marmiksoni777/a-million-bugs-and-a-billion-dollar-bang-the-story-of-the-ariane-5-explosion-6f7b5b5b0e2f)
+
+### ◒ Off-Screen
+* **Reading** ⨯ Devouring books whenever I get the chance
+* **Watching** ⨯ Anime and anything directed by Christopher Nolan
+* **Fuel** ⨯ Powered entirely by chai, pets, and an endless stream of terminal errors
+
+> *"Any application that can be written in JavaScript, will eventually be written in JavaScript."* — Jeff Atwood
 
 ---
 
-#### Fun Philosophy
+### ⊛ Connect
 
-> *Any application that can be written in JavaScript will eventually be written in JavaScript.*
-
----
-
-#### Let's connect
-
-<a href="https://linkedin.com/in/marmiksoni/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/marmiksoni777/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@marmiksoni777" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://signal.me/#eu/BFBp-NQ6IgO_ryDsLXFxQAxxJ0lSXZezWvrsBuzqrHtOteSxwMFFJYsohJThI-dO" target="_blank">
-  <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" />
-</a>
+[LinkedIn ↗](https://linkedin.com/in/marmiksoni/)  •  [Instagram ↗](https://instagram.com/marmiksoni777/)  •  [Medium ↗](https://medium.com/@marmiksoni777)  •  [Signal ↗](https://signal.me/#eu/BFBp-NQ6IgO_ryDsLXFxQAxxJ0lSXZezWvrsBuzqrHtOteSxwMFFJYsohJThI-dO)
