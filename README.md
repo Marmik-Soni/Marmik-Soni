@@ -7,9 +7,9 @@ I'm a fullstack developer based in India.
 
 I build seamless web experiences with **React**, **Next.js**, **Node** (Express & Hono), and **MongoDB** / **Postgres**.
 
-Right now, I'm working on a self healing automation engine to make event registration and waitlists effortless for the Reading Room community.
+Focused on perfecting the craft, because apparently, I have a very low tolerance for "good enough."
 
-I'm also exploring **Vue.js** and dipping my toes into **React Native** because why not learn everything?
+Right now, I'm working on a self healing automation engine to make event registration and waitlists effortless for the Reading Room community.
 
 I regularly write about tech, bugs, and the chaos of development on [Medium](https://medium.com/@marmiksoni777). Here are my recent posts:
 
