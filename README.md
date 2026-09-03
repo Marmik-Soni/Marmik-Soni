@@ -7,10 +7,11 @@ I build seamless, high-performance web experiences using **React**, **Next.js**,
 ---
 
 ### ✦ Currently Building
-Architecting a self-healing automation engine (complete with a waterfall invitation system) for the **Reading Room** community to make event registration and waitlists effortless.
+Architecting a centralized, stateless backend engine (affectionately called The Sun) to seamlessly power event bookings, calendar automation, and email workflows across my personal project ecosystem.
+
 
 ### ❖ Recent Writing
-I regularly document my thoughts on tech, system architecture, and the chaos of development on [Medium](https://medium.com/@marmiksoni777). 
+I regularly document my thoughts on tech, system architecture, and the chaos of development on [dev.to](https://medium.com/@marmiksoni777). 
 
 ↳ [Surveillance in the Digital Age: When Privacy Becomes a Commodity](https://medium.com/@marmiksoni777/surveillance-in-the-digital-age-when-privacy-becomes-a-commodity-f97569ef8546)  
 ↳ [Heisenbugs: The Elusive Bug That Makes Developers Cry](https://medium.com/@marmiksoni777/heisenbugs-the-elusive-bug-that-makes-developers-cry-caee90bff50a)  
